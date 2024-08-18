@@ -2,7 +2,7 @@
 
 **Description:**
 
-This is a backend application for a car rental service developed with .NET Core. The project is structured into five distinct layers to ensure a clean and maintainable architecture.
+This is a backend application for a car rental service developed with .NET Core. The project is divided into five distinct layers to ensure a clean and maintainable architecture.
 
 **Project Structure:**
 
@@ -18,4 +18,4 @@ This is a backend application for a car rental service developed with .NET Core.
 
 **Additional Information:**
 
-This project was developed as part of the training process provided by [Kodlama.io](https://www.kodlama.io/courses/enrolled/1235979). It is one of the projects created during the training camp. For more information, you can take a look.
+This project was developed as part of the training process provided by [Kodlama.io](https://www.kodlama.io/courses/enrolled/1235979). It is one of the projects created during the training camp.
